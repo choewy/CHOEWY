@@ -8,14 +8,14 @@
 <h1></h1>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=choewy&margin-w=15">
+    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=choewy">
+    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choewy&layout=compact">
 </div>
 
 <h1></h1>
 
 <div align="center">
-    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=choewy">
-    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choewy&layout=compact">
+    <img src="https://github-profile-trophy.vercel.app/?username=choewy&margin-w=15">
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=9FDDE3)
