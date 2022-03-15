@@ -1,10 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Eungyeol%20%20&height=200&fontSize=90&fontColor=ffffff)
-
-<img src="https://github-profile-trophy.vercel.app/?username=choewy&margin-w=15">
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Choewy%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 <div align="center">
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoewy&count_bg=%235FF3C1&title_bg=%23555555&title=hits&edge_flat=false"/></a>
     <a href="https://choewy.tistory.com"><img src="https://img.shields.io/badge/blog-tistory-yellow"></a>
+</div>
+
+<h1></h1>
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=choewy&margin-w=15">
 </div>
 
 <h1></h1>
