@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=34d9ad&text=%20Choewy%20%20&height=200&fontSize=90&fontColor=ffffff)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=34d9ad&text=%20Choewy%20%20&height=200&fontSize=90&fontColor=ffffff) -->
 
 <div align="center">
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoewy&count_bg=%235FF3C1&title_bg=%23555555&title=hits&edge_flat=false"/></a>
@@ -40,4 +40,4 @@
     </div> 
 -->
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=34d9ad)
+<!-- ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=34d9ad) -->
